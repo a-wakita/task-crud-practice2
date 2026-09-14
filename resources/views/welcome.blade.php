@@ -689,7 +689,7 @@
         }
 
         .group:hover .group-hover\:stroke-gray-600 {
-            stroke: #4b5563
+            stroke: #5a4b63
         }
 
         .z-10 {
